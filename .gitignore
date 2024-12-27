@@ -154,6 +154,13 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Folders
+dataset
+galala_test
+epoch40_ncnn_model
+epoch40.pt
+epoch40.torchscript
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
