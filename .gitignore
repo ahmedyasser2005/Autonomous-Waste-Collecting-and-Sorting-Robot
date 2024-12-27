@@ -156,7 +156,7 @@ cython_debug/
 
 # Folders
 dataset
-galala_test
+custom_test
 epoch40_ncnn_model
 epoch40.pt
 epoch40.torchscript
