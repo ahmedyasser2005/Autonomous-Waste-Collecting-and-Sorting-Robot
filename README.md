@@ -15,3 +15,11 @@
 #### Research:
 - Ahmed Sherif
 - Ibrahim Salama
+
+### Resources
+#### Dataset:
+- https://universe.roboflow.com/trash-dataset-for-oriented-bounded-box/trash-detection-1fjjc/dataset/14
+#### Model:
+- https://docs.ultralytics.com/models/yolo11
+#### Hardware:
+- https://www.raspberrypi.com/products/raspberry-pi-5
