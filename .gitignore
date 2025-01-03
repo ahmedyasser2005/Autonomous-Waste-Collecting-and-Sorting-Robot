@@ -169,6 +169,5 @@ custom_test
 dataset
 exec
 new_dataset
-new_runs
 runs
 old_model.ipynb
