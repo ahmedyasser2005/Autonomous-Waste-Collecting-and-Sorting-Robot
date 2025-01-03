@@ -154,12 +154,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Folders
-dataset
-custom_test
-epoch40_ncnn_model
-epoch40.pt
-epoch40.torchscript
+
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
@@ -167,3 +162,13 @@ epoch40.torchscript
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# User-specific files
+custom_test
+dataset
+exec
+new_dataset
+new_runs
+runs
+old_model.ipynb
